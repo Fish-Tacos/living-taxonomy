@@ -1,0 +1,4 @@
+requests
+feedparser
+numpy
+scikit-learn
