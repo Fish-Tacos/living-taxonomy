@@ -1,0 +1,168 @@
+{
+ "c1": {
+  "name": "ai / judge / privacy / peer",
+  "born": "2026-11-16",
+  "size": 4,
+  "sample": [
+   "PrivacyPR: A Dataset of Real-World Privacy Fixes for Benchmarking Privacy-Aware Code Review",
+   "Do Machines Learn Deviance From Their Peers? A Randomized Test of Differential Association With AI Agents",
+   "AI-aided Decision-Making in Education - Uncertainty, Explainability, and Human Responsibility"
+  ]
+ },
+ "c2": {
+  "name": "agent / agents / multi agent / multi",
+  "born": "2026-11-16",
+  "size": 29,
+  "sample": [
+   "Knowledge After Collapse: Context and Wording Shape Factual Accessibility in Language Models",
+   "Creative Product Design under Brand Image Constraints",
+   "Co-Sight Harness: Externalized Control Assets and Deterministic Enforcement for Long-Horizon Business Agents"
+  ]
+ },
+ "c3": {
+  "name": "forecasts / segmentation / chlorophyll / errors",
+  "born": "2026-11-16",
+  "size": 4,
+  "sample": [
+   "Tracing Uncertainties of Extreme El Ni\u00f1o Prediction to Mesoscale Ocean Currents",
+   "Logically Consistent Accurate Forecasts",
+   "An AI-enabled high-resolution chlorophyll-a forecasting model that outperforms the operational global biogeochemical system"
+  ]
+ },
+ "c4": {
+  "name": "95 / mm / direction based / direction",
+  "born": "2026-11-16",
+  "size": 3,
+  "sample": [
+   "TotalSegmentator Aorta Report: Automated Aortic Diameter Measurement at 11 Standardized Landmarks on CT Images",
+   "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
+   "Can Large Language Models Optimize Pretrained Neural Network Weights? A Multi-Phase Empirical Evaluation of Gradient-Free Editing in YOLO26 Object Detection"
+  ]
+ },
+ "c5": {
+  "name": "uncertainty / processing / risk / recommendation",
+  "born": "2026-11-16",
+  "size": 5,
+  "sample": [
+   "The Transformer Paradigm: Dynamic Processing and a New Principle of Inference",
+   "RecMem: Recurrent Memory Compression for Long-Sequence Generative Recommendation",
+   "Causally Constrained and Uncertainty-Aware Cardiopulmonary Risk Prediction"
+  ]
+ },
+ "c6": {
+  "name": "category / planning / knowledge / speech",
+  "born": "2026-11-16",
+  "size": 9,
+  "sample": [
+   "Adversarially Attacking Symbolic Vocabulary Vulnerabilities In LLM Planners",
+   "DECODE: Diagnosing Interpretability Failures in Automated Interpretation Process",
+   "Cross-Linguistic Acoustic Biomarkers of Cognitive Impairment Across Interactive and Single-Speaker Speech Tasks"
+  ]
+ },
+ "c7": {
+  "name": "error / coverage / fault / snapshot",
+  "born": "2026-11-16",
+  "size": 4,
+  "sample": [
+   "AI for Parameter Selection in Sample-based Quantum Diagonalization",
+   "Understanding the limits of snapshot-based fault diagnosis in distribution networks",
+   "Robustness Evaluation of GPU Cloud Pricing Benchmarks under Incomplete Observations: A Controlled Missingness Study"
+  ]
+ },
+ "c8": {
+  "name": "server / agent / superfluid / questions",
+  "born": "2026-11-16",
+  "size": 8,
+  "sample": [
+   "LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent",
+   "GDP.xlsx: Benchmarking Frontier Models on Professional Workbooks",
+   "Superfluid: Local AI Server for Distributed LLM Inference"
+  ]
+ },
+ "c9": {
+  "name": "energy / pareto / material / optimization",
+  "born": "2026-11-16",
+  "size": 4,
+  "sample": [
+   "Optimizing Drilling Trajectories in Multi-Material Structures Using Quantum Annealers",
+   "DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery",
+   "Federated Soft Poly-Level Learning Over a Distributed Network with Guaranteed Convergence"
+  ]
+ },
+ "c10": {
+  "name": "sleep / trec / subject / class",
+  "born": "2026-11-16",
+  "size": 3,
+  "sample": [
+   "Towards Explainable Sleep Stage Classification using Single-Channel Electroencephalogram",
+   "What Balanced Accuracy Cannot Identify in Neural-Signal Decoding under Test-Time Adaptation",
+   "TReC: Evaluating Move-Induced State Changes in Instruction-Conditioned Go"
+  ]
+ },
+ "c11": {
+  "name": "database / values / relational / search",
+  "born": "2026-11-16",
+  "size": 3,
+  "sample": [
+   "Experts Across Schemas: Agent-Guided Mixture-of-Relational-Experts for Cross-Database Generalization",
+   "Personalization of Basic and Moral Values Guiding LLM-Controlled Assistant Robots",
+   "Certified Improvements to Best-Known Thomson-Problem Configurations with a Search Pipeline Built with Large Language Model Agents"
+  ]
+ },
+ "c12": {
+  "name": "interference / security / local / moe",
+  "born": "2026-11-16",
+  "size": 6,
+  "sample": [
+   "Condensing Law of Security Information",
+   "From Local Prediction Error to Final Outputs: A Theory of Expert Sharing in Multi-Step Reasoning",
+   "A Spectral Framework for Universal Proxy Regularization in Model Merging"
+  ]
+ },
+ "c13": {
+  "name": "video / generation / steering / jepa",
+  "born": "2026-11-16",
+  "size": 12,
+  "sample": [
+   "V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations",
+   "Towards Seconds-level Video Representation: Quadratically Gated Feature Grid with Adaptive, Prediction-free Sampling",
+   "Activation Steering the Nan-Shan in Typhoon"
+  ]
+ },
+ "c14": {
+  "name": "gene / geneflow / spatial / histology",
+  "born": "2026-11-16",
+  "size": 1,
+  "sample": [
+   "More Genes, Faster Inference: Efficient Large-Panel Spatial Transcriptomics Prediction from Histology"
+  ]
+ },
+ "c15": {
+  "name": "causal / beam / actual / nondeterministic",
+  "born": "2026-11-16",
+  "size": 4,
+  "sample": [
+   "Probabilities of Causation in Nondeterministic Causal Models",
+   "Two-Clustering Regime of Token Dynamics in Causal Attention",
+   "Tracing Actual Causes with Counterfactual Witness Maps"
+  ]
+ },
+ "c16": {
+  "name": "smart / smart home / home / grid",
+  "born": "2026-11-16",
+  "size": 1,
+  "sample": [
+   "Smart Home Agents Make Capable but Unpredictable Grid Operators"
+  ]
+ },
+ "c17": {
+  "name": "identification / lean / person / number",
+  "born": "2026-11-16",
+  "size": 3,
+  "sample": [
+   "From Pen-and-Paper to Machine-Checked Proofs: Lean for System Identification",
+   "Active Learning of Temporal Specifications through Distinguishing Queries",
+   "Multimodal Person Concept Model for Person Identification under Varying Observation Conditions"
+  ]
+ }
+}
