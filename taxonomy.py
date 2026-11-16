@@ -24,21 +24,27 @@ TOP_TERMS = 4       # words used to name a category
 
 def fetch_recent(max_results=300):
     url = (
-        "http://export.arxiv.org/api/query?search_query=cat:cs.AI"
+        "https://export.arxiv.org/api/query?search_query=cat:cs.AI"
         "&sortBy=submittedDate&sortOrder=descending"
         f"&max_results={max_results}"
     )
-    feed = feedparser.parse(requests.get(url, timeout=60).content)
-    cutoff = dt.datetime.utcnow() - dt.timedelta(days=2)
+    resp = requests.get(url, timeout=60, headers={"User-Agent": "living-taxonomy/1.0 (github.com/Fish-Tacos/living-taxonomy)"})
+    print(f"arXiv HTTP {resp.status_code}, {len(resp.content)} bytes")
+    resp.raise_for_status()
+    feed = feedparser.parse(resp.content)
+    cutoff = dt.datetime.utcnow() - dt.timedelta(days=3)
     items = []
+    newest = None
     for e in feed.entries:
         pub = dt.datetime(*e.published_parsed[:6])
+        newest = pub if newest is None else max(newest, pub)
         if pub >= cutoff:
             items.append({
                 "id": e.id,
                 "title": " ".join(e.title.split()),
                 "text": " ".join((e.title + ". " + e.summary).split()),
             })
+    print(f"arXiv entries: {len(feed.entries)}, inside 3-day window: {len(items)}, newest submitted: {newest}")
     return items
 
 
