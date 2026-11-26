@@ -1,0 +1,672 @@
+{
+ "c1": {
+  "name": "ai / human / agents / generative ai",
+  "born": "2026-11-16",
+  "size": 50,
+  "sample": [
+   "JOVE ICE: Intent Guided Cloud Edge Device Collaboration for AI Glasses",
+   "PeerReveal: Learning to Generalize in AI Peer Review Detection",
+   "Anti-AI in the Wild: From Toxic Discourse to Action"
+  ]
+ },
+ "c2": {
+  "name": "model / models / agent / agents",
+  "born": "2026-11-16",
+  "size": 400,
+  "sample": [
+   "Reading Decisions Before Spans: Efficient Generative Verification",
+   "C3H: Compression-to-Consensus Criteria Hijacking in Multimodal LLM Recommender Systems",
+   "CypherMAS: Benchmarking Routing Reliability in LLM-Based Multi-Agent Systems"
+  ]
+ },
+ "c3": {
+  "name": "forecasts / forecasting / chlorophyll / ocean",
+  "born": "2026-11-16",
+  "size": 5,
+  "sample": [
+   "Logically Consistent Accurate Forecasts",
+   "An AI-enabled high-resolution chlorophyll-a forecasting model that outperforms the operational global biogeochemical system",
+   "AeroJEPA: A Two-Stage Framework for Aerosol Forecasting with Joint-Embedding Predictive Learning"
+  ]
+ },
+ "c4": {
+  "name": "mm / direction based / landmarks / 95",
+  "born": "2026-11-16",
+  "size": 4,
+  "sample": [
+   "Is Abliteration Getting Harder? Not Uniformly: Refusal Removal by Direction-Based Ablation and ARA in Heretic on the Qwen3.8, Gemma 4, Olmo 3.1 and Mistral Small 3.2 LLMs Versus Their Predecessors",
+   "Can Large Language Models Optimize Pretrained Neural Network Weights? A Multi-Phase Empirical Evaluation of Gradient-Free Editing in YOLO26 Object Detection",
+   "GEM-MM: Reducing VLM Hallucination with Entropy-Guided Preference Alignment"
+  ]
+ },
+ "c5": {
+  "name": "uncertainty / recurrent / state / memory",
+  "born": "2026-11-16",
+  "size": 19,
+  "sample": [
+   "EXPOSURE: Explaining Sources of Uncertainty in Reinforcement Learning",
+   "MUSE: Multi-Task Uncertainty-Aware Self-Supervised Encoder for mmWave ISAC",
+   "One Token, Many Lessons: Sliding-Window Attention within Gated Delta Networks"
+  ]
+ },
+ "c6": {
+  "name": "human / box / black box / black",
+  "born": "2026-11-16",
+  "size": 27,
+  "sample": [
+   "REBEAL: Human References Are No Longer the Best Translation, and Metrics Do Not Notice",
+   "Progressive Reliable Supervision for Black-Box Universal Domain Adaptation",
+   "Whose Side Are You On? A Framework and Benchmark for Assessing LLM Political Stances through Politicians Social Media Posts"
+  ]
+ },
+ "c7": {
+  "name": "quantum / error / classical / diagnosis",
+  "born": "2026-11-16",
+  "size": 13,
+  "sample": [
+   "LatentRL-QAS: Transfer via Latent Reinforcement Learning for Quantum Architecture Search",
+   "Noise threshold for learning with quantum memory",
+   "QPAT: A Universal Quantum Machine Learning Framework for Quantum-Assisted Training and Classical Inference"
+  ]
+ },
+ "c8": {
+  "name": "agent / server / opus / requests",
+  "born": "2026-11-16",
+  "size": 19,
+  "sample": [
+   "sudo L7: Can Coding Agents Act Like Staff Engineers?",
+   "LoomKV: Lossless KV Cache Compression from GPU Memory to SSD for LLM Serving",
+   "How Much Effort Does an AI Code Reviewer Need? Evidence from Claude 5.5 Models on Plausible-but-Wrong Patches"
+  ]
+ },
+ "c9": {
+  "name": "energy / consumption / optimization / pareto",
+  "born": "2026-11-16",
+  "size": 9,
+  "sample": [
+   "Self-Supervised Learning for Soft-Constrained AC-OPF in Multiphase Distribution Systems",
+   "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learning",
+   "Improving Building Energy Efficiency with an Indoor Environmental World Model and Counterfactual Adaptive Learning"
+  ]
+ },
+ "c10": {
+  "name": "eeg / sleep / subject / gallery",
+  "born": "2026-11-16",
+  "size": 13,
+  "sample": [
+   "Sample-Efficient In-Context Adaptation via Sleep",
+   "EEG-Jev: A Unified Single-Pass Decision Model for EEG",
+   "TopoCryptoEEG: End-to-End Encrypted Framework for Brainprint Authentication"
+  ]
+ },
+ "c11": {
+  "name": "values / database / cad / relational",
+  "born": "2026-11-16",
+  "size": 5,
+  "sample": [
+   "Certified Improvements to Best-Known Thomson-Problem Configurations with a Search Pipeline Built with Large Language Model Agents",
+   "Values Shape What Self-Improving Coding Agents Build",
+   "AI agents can redesign engineering parts with more than a thousand CAD parameters and nonlinear simulations"
+  ]
+ },
+ "c12": {
+  "name": "experts / expert / moe / mixture",
+  "born": "2026-11-16",
+  "size": 22,
+  "sample": [
+   "GHC:Expanding Residual Interfaces in Hyper-Connections",
+   "DuoMI: Dual Mutual Information Regularization for Expert Reuse in Looped Transformers",
+   "RankCast: Phase-Aware Rank Balancing in MoE Serving"
+  ]
+ },
+ "c13": {
+  "name": "video / visual / generation / frame",
+  "born": "2026-11-16",
+  "size": 75,
+  "sample": [
+   "WorldPhy: Benchmarking Fine-Grained Physical Plausibility of World Models in Robotics",
+   "Out of Sight, Not Out of Clues: Can Video LLMs Guess from Partial Evidence?",
+   "ScanAR: Parallel Row-Scan Decoding for Efficient Image Generation in Unified Autoregressive Models"
+  ]
+ },
+ "c14": {
+  "name": "spatial / spatial reasoning / geographic / location",
+  "born": "2026-11-16",
+  "size": 13,
+  "sample": [
+   "Geo-SMILE: Statistical Model-Agnostic Interpretability with Local Explanations for Geospatial Machine Learning",
+   "LimoBench: How Street Smart Are Large Language Models?",
+   "SpatialCraft: Evolving Procedural Intelligence from Experience and Skills for Spatial Reasoning Agents"
+  ]
+ },
+ "c15": {
+  "name": "causal / counterfactual / attention / world",
+  "born": "2026-11-16",
+  "size": 16,
+  "sample": [
+   "Constructive Causal Abstraction and a Case Study in Mechanistic Interpretability",
+   "EventSSM: Causal Spatial-State Modelling for Asynchronous Events Event-Depth Estimation",
+   "WhatIf: Counterfactual World Models over Action-Grounded Causal Graphs for Robotic Manipulation"
+  ]
+ },
+ "c16": {
+  "name": "home / memory / smart / smart home",
+  "born": "2026-11-16",
+  "size": 4,
+  "sample": [
+   "A Generative AI-Driven Architecture for Whole-Home Intelligent Services: Edge Models, Memory Management, and Household Applications",
+   "How Should a Home Robot Update Its Memories When Human Routines Change?",
+   "HoMe: Toward Practical Harness Optimization of Memory Systems for AI Assistants"
+  ]
+ },
+ "c17": {
+  "name": "proof / proofs / lean / identification",
+  "born": "2026-11-16",
+  "size": 8,
+  "sample": [
+   "Verified Proof Refactoring with Codex and Qwen",
+   "Interactive Proofs as a Unified Framework for Evaluating and Leveraging Verifiable Proof Generation by LLM Agents",
+   "Certify What You Plant: Shortcut-Free Proof Depth in Logical Reasoning Data"
+  ]
+ },
+ "c18": {
+  "name": "robot / action / policy / latent",
+  "born": "2026-11-17",
+  "size": 81,
+  "sample": [
+   "Best-of-$N$ Test-Time Steering Can Lead to Reward Hacking in Vision-Language-Action Models",
+   "OmniAct: One Policy, One Million Embodiments",
+   "Learning World Models through Contrastive Identification of Actions"
+  ]
+ },
+ "c19": {
+  "name": "draft / speculative / decoding / speculative decoding",
+  "born": "2026-11-17",
+  "size": 18,
+  "sample": [
+   "MolGPAO: Molecular Generative Pre-trained Autoregressive Octree with Speculative Decoding and Sub-Millisecond Seam Healing for 3D Molecules",
+   "Faster and Better Query (FBQ): Learning Future-Position Probes from the First Generated Token",
+   "LEGOSpec: A Composable and Efficient Framework for Speculative Draft Design and Training"
+  ]
+ },
+ "c20": {
+  "name": "search / filter / semi / spectra",
+  "born": "2026-11-17",
+  "size": 4,
+  "sample": [
+   "Searching for Autoregressive Neural Architectures from Fundamental Operations",
+   "SemiNovo: Learning Beyond Search-Identified Spectra for De Novo Peptide Sequencing",
+   "CapCover Filter: Semantic Approximate Membership Queries over Embeddings"
+  ]
+ },
+ "c21": {
+  "name": "redesign / mos / bpr / auditing",
+  "born": "2026-11-17",
+  "size": 2,
+  "sample": [
+   "Designing Deceptive Model Organisms that Successfully Evade Auditing",
+   "Data-Driven Heuristic-Guided Business Process Redesign"
+  ]
+ },
+ "c22": {
+  "name": "reward / policy / learning / rl",
+  "born": "2026-11-17",
+  "size": 86,
+  "sample": [
+   "Teaching Students to Stand on Their Own: Distilling Vision Foundation Models for Fine-Grained Few-Shot Class-Incremental Learning",
+   "HumblePRM: Improving VLM Abstention in Ambiguous Situations through Process Reward Modeling",
+   "Temporal Selective Exploration for Reinforcement Learning-Guided Continuous-Discrete Flow Matching in 3D Molecular Design"
+  ]
+ },
+ "c24": {
+  "name": "attribution / data / finite / systems",
+  "born": "2026-11-17",
+  "size": 15,
+  "sample": [
+   "Differential Proteomics to XAI Rules: A SHAP-FOL-ILP Modeling for Lung Adenocarcinoma",
+   "Spatial Ensemble Logic for Biomedical Imaging: Geometric Element Ensembles in Euclidean Space",
+   "SysBio-SR: Benchmarking Symbolic Regression for Trajectory Fidelity and Mechanism Recovery in Systems Biology"
+  ]
+ },
+ "c25": {
+  "name": "safety / medical / guardrails / ai",
+  "born": "2026-11-17",
+  "size": 14,
+  "sample": [
+   "MobileGrail: Learning Compact Guardrails for On-Device deployable Mobile GUI Agent Safety",
+   "A Generative AI Agent to Emulate Interactive Human-driven Vehicles for Automated Driving Testing in Urban Areas",
+   "What, Who, and When: Structured Harm Assessment for Mental Health Safety via Short Reasoning"
+  ]
+ },
+ "c26": {
+  "name": "constraints / solver / constraint / cae",
+  "born": "2026-11-17",
+  "size": 9,
+  "sample": [
+   "Learning Autoregressive Neural Operators on Solver-Defined Physical Constraint Manifolds",
+   "Synthetic Neurosymbolic Task Generation with Controlled Constraint Complexity",
+   "GaokaoMathGen: Chinese Gaokao Mathematics Finale Problem Generation Controlled by Latent Reasoning Structures"
+  ]
+ },
+ "c27": {
+  "name": "resolution / high resolution / creative / vira",
+  "born": "2026-11-17",
+  "size": 13,
+  "sample": [
+   "Agentic-Level Adversarial Purification: Revisiting Diffusion Purifiers on Native-Resolution Agentic Inputs",
+   "What Is Redundant at High Resolution? Efficient Attention and Feed-Forward Design for All-in-One Image Restoration",
+   "Benchmarking Segmentation Models for Scalable Mangrove Mapping with Sentinel-1/2 Imagery"
+  ]
+ },
+ "c28": {
+  "name": "conversational / e4b / textit / conversation",
+  "born": "2026-11-17",
+  "size": 3,
+  "sample": [
+   "Conversing with a Conversational Agent: A Real Conversation, Not a Simulated One",
+   "Nemotron 3.5 Bolt E4B 4GB: An Open and Efficient Small Language Model for Fast Conversational Agents",
+   "UbiHearo: Bringing Scenario-Aware Sound Guidance to DHH Users with Mobile Agents"
+  ]
+ },
+ "c29": {
+  "name": "industrial / symptom / pictogram / linguistic",
+  "born": "2026-11-17",
+  "size": 8,
+  "sample": [
+   "Can AI Judge You? An Empirical Audit of Deployment Readiness in LLM-assisted Hiring Systems",
+   "FRAAC: A French Multimodal Large Language Model and Dataset forPictogram-Based Augmentative and Alternative Communication",
+   "SIGMA: speaker-isolated, symptom-structured multimodal estimation of depression severity from clinical interviews"
+  ]
+ },
+ "c30": {
+  "name": "3d / view / views / images",
+  "born": "2026-11-17",
+  "size": 24,
+  "sample": [
+   "Hijacking 3D Generation: Targeted Adversarial Attacks against Image-to-3D Models via Prefix Trajectory Alignment",
+   "Correlation-Aware Evidential Fusion for Trusted Multi-View Classification",
+   "CHD-Bench: Diagnosing Congenital Heart Disease through Interactive Examination"
+  ]
+ },
+ "c31": {
+  "name": "provider / parasocial / schema / tool",
+  "born": "2026-11-17",
+  "size": 4,
+  "sample": [
+   "Towards Agentic Scientific Discovery in Distributed Systems",
+   "CoMPASS: A Multi-Turn Benchmark for Measuring LLM Reinforcement of Parasocial Behavior",
+   "SchemaCaps: When a Compatible Tool Update Silently Widens an AI Agent's Authority"
+  ]
+ },
+ "c32": {
+  "name": "research / legal / scientific / research agents",
+  "born": "2026-11-17",
+  "size": 15,
+  "sample": [
+   "DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents",
+   "REE: A Scientific Research Entrance Exam for AI Agents",
+   "From Models to Services: Systematizing Security Assurance for Model-as-a-Service"
+  ]
+ },
+ "c33": {
+  "name": "international / 2026 / formal / verification",
+  "born": "2026-11-17",
+  "size": 2,
+  "sample": [
+   "Proceedings Eighth International Workshop on Formal Methods for Autonomous Systems",
+   "The 7th International Verification of Neural Networks Competition (VNN-COMP 2026): Summary and Results"
+  ]
+ },
+ "c34": {
+  "name": "experiences / bad / personality / developers",
+  "born": "2026-11-17",
+  "size": 2,
+  "sample": [
+   "How Developer Personality Shapes the Use of AI Coding Assistants",
+   "D'BEAST: Logged Bad Experiences as Explanation for Autonomous Driving Agents"
+  ]
+ },
+ "c35": {
+  "name": "pp / errors / error / tabpfn",
+  "born": "2026-11-17",
+  "size": 5,
+  "sample": [
+   "Equal Dose, Different Coverage:Tracing Rate and Duration in Image Editing",
+   "Bradley-Terry Training Can Distort Outcome Probabilities of Initially Accurate Language World Models",
+   "Predicting Rare-Mode Collapse in Recursive Generative Training from Single-Generation Calibration"
+  ]
+ },
+ "c36": {
+  "name": "series / time series / anomaly / forecasting",
+  "born": "2026-11-17",
+  "size": 25,
+  "sample": [
+   "GeoCAM: Self-Supervised Sonar-Optical Representation Learning via Geographic Overlap Supervision",
+   "Hierarchical Semantic Learning for Multimodal Sentiment Analysis with Missing Modalities",
+   "Assessing the Physical Interpretability of AlphaEarth Foundation Embeddings Through Multi-Sensor Satellite Time-Series Benchmarking for Agricultural Mapping"
+  ]
+ },
+ "c37": {
+  "name": "tutor / genai / classroom / children",
+  "born": "2026-11-17",
+  "size": 1,
+  "sample": [
+   "Share your Screen and Talk to Gemini: How Young Learners Interact with Multimodal GenAI While Solving Scratch Tasks"
+  ]
+ },
+ "c38": {
+  "name": "forecast / nowcasting / csp / ensemble",
+  "born": "2026-11-17",
+  "size": 3,
+  "sample": [
+   "Conformal Expert Pools: Training-Free Probabilistic Time-Series Forecasting Beyond Seasonality",
+   "ForeSay: Tell the Future in Words, Branch the Details in Noise for Precipitation Nowcasting",
+   "AlignPre: Skill-Aligned Post-Training for Latent-Free Generative Precipitation Nowcasting"
+  ]
+ },
+ "c39": {
+  "name": "cyber / physical / cyber physical / cross border",
+  "born": "2026-11-17",
+  "size": 13,
+  "sample": [
+   "A Survey of Security, Privacy, and Ethics of Large Language Models in Telecom",
+   "Make the Adversary Spend More: Stateful Deception as a Cost-Exchange Primitive for AI-Era Cyber Defense",
+   "AI Buckingham: Agentic Discovery of Dimensionless Scaling Laws Across Physical Regimes"
+  ]
+ },
+ "c40": {
+  "name": "network / neural / networks / graph",
+  "born": "2026-11-17",
+  "size": 69,
+  "sample": [
+   "Onnx2TEE: Automated Graph-Aware Model Partitioning for TEE-based Edge AI Protection",
+   "Beyond the Efficiency-Efficacy Dilemma: A Critical Analysis of Transferability in Adversarial Malware Detection",
+   "Sequential Testing on Complex and High Dimensional Data Streams Leveraging Unsupervised Model Errors"
+  ]
+ },
+ "c41": {
+  "name": "price / plan / creators / prices",
+  "born": "2026-11-17",
+  "size": 8,
+  "sample": [
+   "When AI Agents Should Repair, Replan, or Abandon: A Threshold Theory of Plan Commitment",
+   "Testing World Models on Actions They Have Never Seen: Held-Out Plans, Forecast Accuracy and Price Rules in Retail",
+   "Vetoes and missed agreements in language-model bargaining"
+  ]
+ },
+ "c42": {
+  "name": "federated / client / explanations / federated learning",
+  "born": "2026-11-17",
+  "size": 10,
+  "sample": [
+   "Beyond Easy Clients: Difficulty- and Improvement-Aware Aggregation for Federated Reinforcement Learning in Robot Navigation",
+   "Learning Global Probabilistic Explanations",
+   "P-FedSkill: A Personalized Federated Skill Learning Framework under Task Heterogeneity"
+  ]
+ },
+ "c43": {
+  "name": "diffusion / decoding / diffusion language / schedule",
+  "born": "2026-11-17",
+  "size": 14,
+  "sample": [
+   "Beyond Logits: Coherent Hallucination Mitigation via Attention Contrastive Decoding",
+   "DiCALM: Converting Autoregressive Convolution-Attention Language Models into Discrete Diffusion Language Models",
+   "Pitfalls of Dependency-Ready Decoding for Masked Diffusion Language Models"
+  ]
+ },
+ "c44": {
+  "name": "speech / acoustic / speaker / voice",
+  "born": "2026-11-17",
+  "size": 10,
+  "sample": [
+   "ClusterVAD: Threshold-Free Unsupervised Voice Activity Detection with Pre-Trained Neural Representations",
+   "Joint Detection of Constructive Speech, Hate Speech and Agreement in Online Conversations",
+   "Honest but Wrong: Formalizing Retraction in the Ethics of Speech Acts"
+  ]
+ },
+ "c45": {
+  "name": "textbf / memory systems / unlearning / context",
+  "born": "2026-11-17",
+  "size": 10,
+  "sample": [
+   "Your VLM Knows What to Inspect: Semantic Probe-Guided Adaptive Focusing for GUI Grounding",
+   "SPARQL-Planned Single-Hop Traversal over a Live Knowledge Graph for Multi-Hop Question Answering",
+   "Letting Models Manage Their Own Context: Where We Stand"
+  ]
+ },
+ "c46": {
+  "name": "rtl / repair / designs / prompt",
+  "born": "2026-11-19",
+  "size": 25,
+  "sample": [
+   "Kolpona: An Agentic Framework with Gradient-Free Neuron Programming for RTL Generation",
+   "REFORGE: LLM-Assisted RTL Bug Repair with Structured Context and Verification Feedback",
+   "SecID: An LLM-Guided Framework for Threat-Aware Secondary Asset Identification with Quantitative RTL Analysis"
+  ]
+ },
+ "c47": {
+  "name": "stress / figure / figures / cardiomyopathy",
+  "born": "2026-11-19",
+  "size": 11,
+  "sample": [
+   "Stress Testing a Multimodal Large Language Model Grading Assistant on Kinematics Graph Reading",
+   "Deep Discriminative Feature Fusion of Convolutional and Attention-Based Recurrent Representations for Subject-Independent ECG Stress Recognition",
+   "SciFig2Data: A Workflow for Recovering Structured Data from Scientific Figures"
+  ]
+ },
+ "c48": {
+  "name": "counseling / patient / dialogues / clinical",
+  "born": "2026-11-19",
+  "size": 6,
+  "sample": [
+   "On the Creation of Object-Centric Event Logs from Patient Journeys",
+   "Right Destination, Wrong Journey: Synthetic Counseling Dialogues Miss Human Interactional Dynamics",
+   "InterGenEHR$^+$: An Interactive Framework for Natural Language-Conditioned Generation of Longitudinal Patient Trajectories"
+  ]
+ },
+ "c49": {
+  "name": "object / detection / watermarking / tiny",
+  "born": "2026-11-19",
+  "size": 12,
+  "sample": [
+   "RSWP: Robust SO(3)-Equivariant Watermarking for Panoramic Images",
+   "Beyond Rigid Hands: Deforming Skin into Contact-Consistent Hand Meshes",
+   "One Representation to Rule Them All -- Open-Vocabulary Change Detection from Text or Visual Examples"
+  ]
+ },
+ "c50": {
+  "name": "quantization / bit / spiking / precision",
+  "born": "2026-11-19",
+  "size": 24,
+  "sample": [
+   "ReQOR: Operator-Discrepancy Subspace Repair for Quantization-Conditioned Backdoors in Large Language Models",
+   "Breaking the Binary-Lifting Barrier for DNA Minimizer Density: Exact Optimization of a Native 4-ary Order at (w, k) = (12, 5)",
+   "Provably Near-Optimal PQ in the Extended Zador Model"
+  ]
+ },
+ "c51": {
+  "name": "organ / ctlink / scans / dose",
+  "born": "2026-11-19",
+  "size": 3,
+  "sample": [
+   "ExiST: Existence-Aware Self-Training for Semi-Supervised Multi-Organ Segmentation",
+   "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings to 3D Chest CT Scans",
+   "DosePET: An Open-Source Dataset with 2100 Radiation Dose Maps for PET/CT"
+  ]
+ },
+ "c52": {
+  "name": "semantic / snr / textbook / value",
+  "born": "2026-11-19",
+  "size": 7,
+  "sample": [
+   "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
+   "Pluggable Subband-Decoupled Fusion and Unlabeled Capture Prototype Calibration: Bridging High-SNR Null-Subcarrier Regrowth and Low-SNR Coherent Preambles for Cross-Domain IoT RF Fingerprinting",
+   "An Information-Theoretic Analysis of Information Hiding in Semantic Communication"
+  ]
+ },
+ "c53": {
+  "name": "circuit / music / style / circuit discovery",
+  "born": "2026-11-19",
+  "size": 4,
+  "sample": [
+   "Beyond Patching: Consistent Circuit Discovery via Gradient Spectral Analysis",
+   "Music Circuit: Trace and Control Style Dynamics in Large Music Generation Model",
+   "When Online Adaptation of Resilience Policies Hurts: Safe Exploration and Measurement Pitfalls in Resilience4j"
+  ]
+ },
+ "c54": {
+  "name": "color / aesdistill / color enhancement / aesthetic",
+  "born": "2026-11-19",
+  "size": 2,
+  "sample": [
+   "ReTouchGS: Ultralight Render-free Aesthetic Color Enhancement and Transfer for 3D Gaussian Splatting",
+   "AesDistill: Distilling Generative Aesthetics for Image Color Enhancement"
+  ]
+ },
+ "c55": {
+  "name": "motion / body / hands / hand",
+  "born": "2026-11-19",
+  "size": 11,
+  "sample": [
+   "Embodied-VGGT: Preserving Reliable Local Geometry for Long-Sequence Reconstruction",
+   "Spectral Optimal Transport for Dynamics-Aware Sign Language Generation",
+   "DexEngine: Scaling Human Demonstrations into Physically Executable Whole-Robot Data"
+  ]
+ },
+ "c56": {
+  "name": "mathcal / width / firms / optimal",
+  "born": "2026-11-20",
+  "size": 17,
+  "sample": [
+   "Gaussian Belief Propagation and Periodic Jacobi Matrices on Trees: Spectral Curve, Antibound Poles, and Fixed Points",
+   "SGD with Large Learning Rates: General Analysis & Improved Rates",
+   "A Hierarchy of Risk Certificates for Representation-Based Prediction"
+  ]
+ },
+ "c57": {
+  "name": "restoration / query / content / degradation",
+  "born": "2026-11-20",
+  "size": 10,
+  "sample": [
+   "Similarity-Constrained Reweighting for Complex Query Answering on Knowledge Graphs",
+   "Query-Guided Visual Minimization for Selective Disclosure to Cloud VLMs",
+   "GRUN: Generalized Retinex Unfolding Network for Image Restoration"
+  ]
+ },
+ "c58": {
+  "name": "os / reviews / fpga / specification",
+  "born": "2026-11-20",
+  "size": 6,
+  "sample": [
+   "SkillBridge: Cost-Aware Diagnosis and Repair of Cross-OS Compatibility Defects in Agent Skills",
+   "FPGA-GEN: Target-Aware RTL Generation via HLS",
+   "When Objectives and Evaluators Disagree: Evaluating Transfer for Post-hoc Demographic Framing Mitigation"
+  ]
+ },
+ "c59": {
+  "name": "echo chambers / chambers / echo / opinion",
+  "born": "2026-11-20",
+  "size": 1,
+  "sample": [
+   "Coherent belief and opinion propagation produces more echo chambers: corrected version"
+  ]
+ },
+ "c60": {
+  "name": "posterior / lineage / claims / empirical",
+  "born": "2026-11-20",
+  "size": 6,
+  "sample": [
+   "From Reliance to Overreliance: Taxonomizing and Detecting Relational Risks in AI Companionship",
+   "An AI-Powered Multiverse Analysis of Empirical Finance Research: Evidence from Reused Natural Experiments",
+   "Denoising Diffusion with Progressive Posterior Sampling"
+  ]
+ },
+ "c61": {
+  "name": "splice / dysplasia / sam / transparent",
+  "born": "2026-11-20",
+  "size": 7,
+  "sample": [
+   "Multiple Criteria Decision Making Under XORness",
+   "Splice-Core: Low-Order-Bit-Splicing GEMM for Highly Energy-Efficient AI Inference Accelerators",
+   "SailSearch: Agent-Assisted Discovery in Combinatorial Optimization"
+  ]
+ },
+ "c62": {
+  "name": "mapf / splittings / reversibility / stakeholders",
+  "born": "2026-11-24",
+  "size": 8,
+  "sample": [
+   "Cost-Sensitive Reversibility of Non-Deterministic Actions",
+   "Learning Acceptable Lotteries via Queries: Minimizing Aggregated Violation Distances",
+   "LSRP*-LA: Scalable and Anytime Multi-Agent Path Finding for Large Agents with Asynchronous Actions"
+  ]
+ },
+ "c63": {
+  "name": "doppelvet / lpf / declared / behaviours",
+  "born": "2026-11-24",
+  "size": 3,
+  "sample": [
+   "Uncovering Hidden Behaviours in Language Models via Limited-Parameter Finetuning",
+   "Verifying Declared AI Workloads from GPU Supply Current",
+   "DoppelVet: Comparative Safety Verification for Self-Evolving Agents"
+  ]
+ },
+ "c64": {
+  "name": "hyperbolic / esg / protein / occupational",
+  "born": "2026-11-24",
+  "size": 13,
+  "sample": [
+   "Scalar Tuned Lens Summaries Offer Limited Incremental Value for Mid-Generation Abstention",
+   "SWIFT: A Handcrafted, Arithmetic-Minimal FPGA Engine for Real-Time Audio Deepfake Detection",
+   "RAP: Radial-Angular Random Projection for Hyperbolic Representations"
+  ]
+ },
+ "c65": {
+  "name": "sender / guard / executor / elliptic",
+  "born": "2026-11-24",
+  "size": 3,
+  "sample": [
+   "Oops!... I Parsed It Again: Tool-Call Smuggling Against LLM Agents",
+   "Refine, Don't Reinvent: RASA-Bench for Source-Grounded Hindi Prose Refinement",
+   "Who Sent It or How It Moved? Sender Shortcuts in Cryptocurrency Anti-Money-Laundering Benchmarks, Audited on Elliptic2 and Elliptic++"
+  ]
+ },
+ "c66": {
+  "name": "taxi / colour / assembly / concept",
+  "born": "2026-11-25",
+  "size": 15,
+  "sample": [
+   "Below the Stopwatch: Checking the Performance Claims of Coding Agents in the Kernel",
+   "Taxi: Analyzing Agents at (Real) Scale",
+   "Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation"
+  ]
+ },
+ "c67": {
+  "name": "marketing / alpha beta / thought / statement",
+  "born": "2026-11-25",
+  "size": 4,
+  "sample": [
+   "Marketing-Bench: Evaluating Frontier Models and Agents on Real-World Marketing Capabilities",
+   "Monitorable-by-design architectures for a post-Astra world: a compartmentalization-based approach",
+   "Safe Autoformalization: Sufficiency and Necessity with Entailment Graphs"
+  ]
+ },
+ "c68": {
+  "name": "buyer / conversations / advance / money",
+  "born": "2026-11-25",
+  "size": 1,
+  "sample": [
+   "\"I Do Intend to Deliver\": Will LLMs Run a Marketplace Advance-Fee Scam?"
+  ]
+ },
+ "c69": {
+  "name": "eppc / clustering / agentic waterfall / vessel",
+  "born": "2026-11-26",
+  "size": 10,
+  "sample": [
+   "CARROT: Competitive Adaptive Graph Clustering via Semi-Relaxed Optimal Transport",
+   "KeyDeck: Multi-Paper-to-Slide Generation via Cross-Paper Synthesis and Reference-Guided Personalization",
+   "Controllable CAD Generation and Interactive Editing of Fluid Rotors"
+  ]
+ }
+}
